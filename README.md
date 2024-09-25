@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pritam723/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/Pritam723/ProblemSolving/tree/master/2155-find-missing-observations) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
 |  |
@@ -73,8 +75,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Trie
 |  |
 | ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
