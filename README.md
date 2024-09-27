@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2155-find-missing-observations](https://github.com/Pritam723/ProblemSolving/tree/master/2155-find-missing-observations) |
@@ -88,20 +89,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
+| [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 ## Design
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
