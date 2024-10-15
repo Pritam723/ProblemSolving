@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pritam723/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
 |  |
@@ -121,8 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritam723/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritam723/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
