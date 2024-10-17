@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pritam723/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritam723/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritam723/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
