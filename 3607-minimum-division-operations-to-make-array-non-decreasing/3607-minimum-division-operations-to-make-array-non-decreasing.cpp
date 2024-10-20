@@ -4,6 +4,8 @@ public:
         int ans = 0;
         int n = nums.size();
 
+        // We will use similar idea of sieve for GPD.
+
         int maxi = nums[0];
 
         for(int num: nums) maxi = max(num, maxi);
@@ -26,6 +28,8 @@ public:
         }
 
         // So, our GPD array is ready. Now scan nums from R to L.
+        // See, dividing val by gpd[val] will always give a prime.
+        // That is we can't minimize it further.
         
         int prevMin = INT_MAX;
 
