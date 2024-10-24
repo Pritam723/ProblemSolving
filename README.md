@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pritam723/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Pritam723/ProblemSolving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pritam723/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
