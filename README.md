@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Pritam723/ProblemSolving/tree/master/2155-find-missing-observations) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/Pritam723/ProblemSolving/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritam723/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
@@ -179,4 +180,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pritam723/ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2554-minimum-total-distance-traveled](https://github.com/Pritam723/ProblemSolving/tree/master/2554-minimum-total-distance-traveled) |
+## Sorting
+|  |
+| ------- |
+| [2554-minimum-total-distance-traveled](https://github.com/Pritam723/ProblemSolving/tree/master/2554-minimum-total-distance-traveled) |
 <!---LeetCode Topics End-->
