@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Pritam723/ProblemSolving/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/Pritam723/ProblemSolving/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/Pritam723/ProblemSolving/tree/master/3451-string-compression-iii) |
 ## Simulation
 |  |
 | ------- |
