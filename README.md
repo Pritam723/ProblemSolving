@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Pritam723/ProblemSolving/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Pritam723/ProblemSolving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Pritam723/ProblemSolving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
 |  |
@@ -190,8 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2554-minimum-total-distance-traveled](https://github.com/Pritam723/ProblemSolving/tree/master/2554-minimum-total-distance-traveled) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/3291-find-if-array-can-be-sorted) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Pritam723/ProblemSolving/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
