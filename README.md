@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
