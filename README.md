@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0039-combination-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0039-combination-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Pritam723/ProblemSolving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Linked List
 |  |
