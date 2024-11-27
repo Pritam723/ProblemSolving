@@ -2,7 +2,7 @@ class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         // Refer notes, Dijkstra's will not work here.
-        // Bellman Ford at i-th step says: What is the shortest distance from src to other node
+        // Bellman Ford at i-th stpe says: What is the shortest distance from src to other node
         // using i edge at max. So, actually we need to use this algo here.
 
         // We need to relax all edges for k+1 times. (k at max is n-1 so it is fine).
