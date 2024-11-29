@@ -13,6 +13,36 @@ class Job{
 
 class Solution {
 public:
+
+    int lowerBound(vector<Job> &jobs, int n, int x) {
+        // Write your code here
+        // int n = arr.size();
+
+        if(x > jobs[n-1].s) return n;
+
+        int start = 0;
+        int end = n-1;
+        
+        int ans;
+
+        while(start <= end){
+            int mid = start + (end-start)/2;
+
+            int val = jobs[mid].s;
+
+            if(x > val){
+                // So, our desired index must be at right.
+                start = mid + 1;
+            }else{
+                // So, val >= x. So, it is a potential ans.
+                ans = mid;
+                end = mid - 1;
+            }
+        }
+
+        return ans;
+    }
+
     static bool comp(Job j1, Job j2){
         return j1.s < j2.s;
     }
@@ -31,8 +61,11 @@ public:
 
         int endTime = j.e;
 
-        int k = i;
-        while(k < n && jobs[k].s < endTime) k++;
+        // int k = i;
+        // while(k < n && jobs[k].s < endTime) k++;
+        
+        int k = lowerBound(jobs, n, endTime);
+
         // So, we got that next job.
 
         int incl = j.p + sol(jobs, n, k, dp);
