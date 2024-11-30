@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/Pritam723/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pritam723/ProblemSolving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritam723/ProblemSolving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/Pritam723/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Pritam723/ProblemSolving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritam723/ProblemSolving/tree/master/2179-most-beautiful-item-for-each-query) |
