@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pritam723/ProblemSolving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritam723/ProblemSolving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Pritam723/ProblemSolving/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritam723/ProblemSolving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pritam723/ProblemSolving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pritam723/ProblemSolving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Pritam723/ProblemSolving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pritam723/ProblemSolving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pritam723/ProblemSolving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1755-defuse-the-bomb](https://github.com/Pritam723/ProblemSolving/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pritam723/ProblemSolving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Pritam723/ProblemSolving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
