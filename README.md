@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/Pritam723/ProblemSolving/tree/master/0812-rotate-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1755-defuse-the-bomb](https://github.com/Pritam723/ProblemSolving/tree/master/1755-defuse-the-bomb) |
