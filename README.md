@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Pritam723/ProblemSolving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
 | [0300-longest-increasing-subsequence](https://github.com/Pritam723/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
