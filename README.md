@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pritam723/ProblemSolving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Pritam723/ProblemSolving/tree/master/1755-defuse-the-bomb) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Pritam723/ProblemSolving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/Pritam723/ProblemSolving/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Pritam723/ProblemSolving/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Pritam723/ProblemSolving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pritam723/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Pritam723/ProblemSolving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Pritam723/ProblemSolving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Pritam723/ProblemSolving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pritam723/ProblemSolving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
