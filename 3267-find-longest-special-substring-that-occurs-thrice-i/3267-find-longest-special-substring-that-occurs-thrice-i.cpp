@@ -16,9 +16,14 @@ public:
             // So, either j == n or s[j] != ch.
             // So, from index i to j-1 we have same char.
             // Say we get "aaaa" we add mp[a] = 4, mp[aa] = 3,
-            // mp[aaa] = 2, mp[aaaa] = 1.
+            // mp[aaa] = 2, mp[aaaa] = 1. Now, for large no.
+            // of 'a's it is giving MLE. Now, see, say we got
+            // "aaaaaa". So, mp["aaaaaa"] = 1, mp["aaaaa"] = 2,
+            // mp["aaaa"] = 3. Is it really necessary to save
+            // mp["aaa"] = 4? No! Saving till aaaa is enough.
+            // Think about it. So, this way we can save the MLE.  
             int ssLength = j - i;
-            for(int l = 1; l <= ssLength; l++){
+            for(int l = ssLength; l >= max(1,ssLength-2); l--){
                 string ss = s.substr(i, l);
                 mp[ss] = mp[ss] + (ssLength - l + 1);
             }
