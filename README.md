@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/Pritam723/ProblemSolving/tree/master/0341-flatten-nested-list-iterator) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
