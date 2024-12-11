@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
 | [0300-longest-increasing-subsequence](https://github.com/Pritam723/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Pritam723/ProblemSolving/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pritam723/ProblemSolving/tree/master/0417-pacific-atlantic-water-flow) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Pritam723/ProblemSolving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pritam723/ProblemSolving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pritam723/ProblemSolving/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/Pritam723/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Pritam723/ProblemSolving/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pritam723/ProblemSolving/tree/master/0803-cheapest-flights-within-k-stops) |
