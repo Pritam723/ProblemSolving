@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/Pritam723/ProblemSolving/tree/master/0341-flatten-nested-list-iterator) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/Pritam723/ProblemSolving/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritam723/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pritam723/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Pritam723/ProblemSolving/tree/master/0895-shortest-path-to-get-all-keys) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Pritam723/ProblemSolving/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pritam723/ProblemSolving/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Pritam723/ProblemSolving/tree/master/2089-maximum-matrix-sum) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Pritam723/ProblemSolving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pritam723/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pritam723/ProblemSolving/tree/master/2164-two-best-non-overlapping-events) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pritam723/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
