@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Pritam723/ProblemSolving/tree/master/0341-flatten-nested-list-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritam723/ProblemSolving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-shortest-path-to-get-all-keys](https://github.com/Pritam723/ProblemSolving/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pritam723/ProblemSolving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
