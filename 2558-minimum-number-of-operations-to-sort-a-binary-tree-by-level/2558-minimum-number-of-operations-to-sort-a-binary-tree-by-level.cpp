@@ -14,7 +14,7 @@ public:
     int minimumOperations(TreeNode* root) {
         // Read this editorial first:
         // https://www.geeksforgeeks.org/problems/minimum-swaps/1?itm_source=geeksforgeeks
-
+        // Minimum swaps to make array sorted. Very good question.
         queue<TreeNode*> bfsQ;
         bfsQ.push(root);
         
