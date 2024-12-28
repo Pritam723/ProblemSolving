@@ -498,5 +498,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-project-employees-i](https://github.com/Pritam723/ProblemSolving/tree/master/1161-project-employees-i) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Pritam723/ProblemSolving/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/Pritam723/ProblemSolving/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
