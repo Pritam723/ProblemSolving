@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Pritam723/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Pritam723/ProblemSolving/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1025-minimum-cost-for-tickets](https://github.com/Pritam723/ProblemSolving/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1063-best-sightseeing-pair](https://github.com/Pritam723/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pritam723/ProblemSolving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pritam723/ProblemSolving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pritam723/ProblemSolving/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1025-minimum-cost-for-tickets](https://github.com/Pritam723/ProblemSolving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Pritam723/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Pritam723/ProblemSolving/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Pritam723/ProblemSolving/tree/master/1402-count-square-submatrices-with-all-ones) |
