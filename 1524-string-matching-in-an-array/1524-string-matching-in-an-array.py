@@ -1,20 +1,26 @@
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
-        def add(word: str):
-            node = trie
-            for c in word:
-                node = node.setdefault(c, {})
+        n = len(words)
+        ans = []
+        # words.sort(reverse=True)
 
-        def get(word: str) -> bool:
-            node = trie
-            for c in word:
-                if (node := node.get(c)) is None: return False
-            return True
+        print(words)
 
-        words.sort(key=len, reverse=True)
-        trie, result = {}, []
-        for word in words:
-            if get(word): result.append(word)
-            for i in range(len(word)):
-                add(word[i:])
-        return result
+        for i in range(n):
+            word1 = words[i]
+            # print(word1)
+            j = 0
+            while(j < i):
+                word2 = words[j]
+                # print(word2)
+                if(word1 in word2):
+                    # print(word1 + " is ss of " + word2)
+                    ans.append(word1)
+                    # break
+                if(word2 in word1):
+                    ans.append(word2)
+                    # break
+                j = j + 1
+        
+        ans = list(set(ans))
+        return ans
