@@ -1,29 +1,29 @@
 class Solution:
     def countServers(self, grid: List[List[int]]) -> int:
-        rows = len(grid)
-        cols = len(grid[0])
-        
-        # Check the input: size of the grid. If it is 0 then exit
-        if not (cols and rows):
-            return 0
+        m = len(grid)
+        n = len(grid[0])
 
-        connected = 0                  # store number of connected computers                 
-        points=[]                      # store coordinates of all the computers 
-        comps_per_row = [0] * rows     # store number of computers in given row
-        comps_per_col = [0] * cols     # store number of computers in given column
+        rowMap = [0]*m
+        colMap = [0]*n
         
-        for row_i in range(rows):
-            for col_i in range(cols):
-                if grid[row_i][col_i]:              # checking if given cell is not 0
-                    points.append((row_i,col_i))    # add coordinated to the set
-                    comps_per_row[row_i]+=1         # increase nimber of computers in a given row
-                    comps_per_col[col_i]+=1         # increase nimber of computers in a given column 
+        ans = 0
         
-        # iterate through all computers
-        for row_i,col_i in points:
-            # is there more than 1 computer in given row or column
-            if comps_per_row[row_i]>1 or comps_per_col[col_i]>1 :
-                # if yes, then computer is connected, count him      
-                connected += 1                      
-        
-        return connected
+        for i in range(m):
+            for j in range(n):
+                cell = grid[i][j]
+                if(cell == 0): continue
+
+                # Otherwise it is a server.
+                rowMap[i] = rowMap[i] + 1
+                colMap[j] = colMap[j] + 1
+
+        for i in range(m):
+            for j in range(n):
+                cell = grid[i][j]
+                if(cell == 0): continue
+
+                # Otherwise it is a server.
+                if(rowMap[i] > 1 or colMap[j] > 1): ans = ans + 1
+                
+
+        return ans
