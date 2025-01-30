@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Pritam723/ProblemSolving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Pritam723/ProblemSolving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritam723/ProblemSolving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Pritam723/ProblemSolving/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Pritam723/ProblemSolving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Pritam723/ProblemSolving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-valid-arrangement-of-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Pritam723/ProblemSolving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Pritam723/ProblemSolving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Pritam723/ProblemSolving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Pritam723/ProblemSolving/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Pritam723/ProblemSolving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
