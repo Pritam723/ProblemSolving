@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Pritam723/ProblemSolving/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pritam723/ProblemSolving/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Pritam723/ProblemSolving/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Pritam723/ProblemSolving/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritam723/ProblemSolving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritam723/ProblemSolving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Pritam723/ProblemSolving/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Pritam723/ProblemSolving/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pritam723/ProblemSolving/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Pritam723/ProblemSolving/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Pritam723/ProblemSolving/tree/master/0854-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Pritam723/ProblemSolving/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1396-count-servers-that-communicate](https://github.com/Pritam723/ProblemSolving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Pritam723/ProblemSolving/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/Pritam723/ProblemSolving/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritam723/ProblemSolving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/Pritam723/ProblemSolving/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Pritam723/ProblemSolving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Pritam723/ProblemSolving/tree/master/0542-01-matrix) |
 | [0787-sliding-puzzle](https://github.com/Pritam723/ProblemSolving/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/Pritam723/ProblemSolving/tree/master/0854-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Pritam723/ProblemSolving/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pritam723/ProblemSolving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1396-count-servers-that-communicate](https://github.com/Pritam723/ProblemSolving/tree/master/1396-count-servers-that-communicate) |
