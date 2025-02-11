@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritam723/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pritam723/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Pritam723/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pritam723/ProblemSolving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Pritam723/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Pritam723/ProblemSolving/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Pritam723/ProblemSolving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pritam723/ProblemSolving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pritam723/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Pritam723/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pritam723/ProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pritam723/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Pritam723/ProblemSolving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Pritam723/ProblemSolving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Pritam723/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Pritam723/ProblemSolving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Pritam723/ProblemSolving/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Pritam723/ProblemSolving/tree/master/2232-adding-spaces-to-a-string) |
