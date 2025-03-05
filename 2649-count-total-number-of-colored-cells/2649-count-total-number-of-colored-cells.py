@@ -7,7 +7,7 @@ class Solution:
 
         i = 1
         while(i < n):
-            total = total + base + (base + 2)
+            total = total + 2 * base + 2
             base = base + 2
             i = i + 1
 
