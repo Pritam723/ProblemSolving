@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Pritam723/ProblemSolving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Pritam723/ProblemSolving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Pritam723/ProblemSolving/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pritam723/ProblemSolving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Pritam723/ProblemSolving/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Pritam723/ProblemSolving/tree/master/2470-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Pritam723/ProblemSolving/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1755-defuse-the-bomb](https://github.com/Pritam723/ProblemSolving/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Pritam723/ProblemSolving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pritam723/ProblemSolving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Pritam723/ProblemSolving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Pritam723/ProblemSolving/tree/master/2868-continuous-subarrays) |
