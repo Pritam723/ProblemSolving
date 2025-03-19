@@ -1,46 +1,33 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
+        // We need leftMax and rightMax for each point.
+
         int n = height.size();
+        int lm = 0;
+        int rm = 0;
 
-        vector<int> maxLeft(n, INT_MIN);
-        vector<int> maxRight(n, INT_MIN);
+        vector<int> leftMax(n, 0);
+        vector<int> rightMax(n, 0);
 
-        int maxL = INT_MIN;
-        int maxR = INT_MIN;
-
-
-        // Making maxLeft.
         for(int i = 0; i < n; i++){
-            maxLeft[i] = maxL;
             int val = height[i];
-            maxL = max(maxL, val);
+            leftMax[i] = lm;
+
+            lm = max(lm, val);
         }
 
+        for(int j = n-1; j >= 0; j--){
+            int val = height[j];
+            rightMax[j] = rm;
 
-        // Making maxRight.
-        for(int i = n-1; i >= 0; i--){
-            maxRight[i] = maxR;
-            int val = height[i];
-            maxR = max(maxR, val);
+            rm = max(rm, val);
         }
 
         int ans = 0;
 
         for(int i = 0; i < n; i++){
-            int maxL = maxLeft[i];
-            int maxR = maxRight[i];
-            cout << "height is " << height[i] << " " << "left and right are " << maxL << " and " << maxR << endl;
-
-            // if(maxL == INT_MIN or maxR == INT_MIN) continue;
-            int side = min(maxL, maxR);
-            // cout << "smaller side is " << side << endl;
-            if(side == INT_MIN) continue; 
-            int net = side - height[i];
-
-            if(net < 0) continue;
-
-            ans = ans + net;
+            ans = ans + max(0, min(leftMax[i], rightMax[i]) - height[i]);
         }
 
         return ans;
