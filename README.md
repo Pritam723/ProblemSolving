@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Pritam723/ProblemSolving/tree/master/0326-power-of-three) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Pritam723/ProblemSolving/tree/master/0670-maximum-swap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pritam723/ProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pritam723/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Pritam723/ProblemSolving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pritam723/ProblemSolving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pritam723/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Pritam723/ProblemSolving/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Pritam723/ProblemSolving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
