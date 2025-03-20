@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Pritam723/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
+| [0238-product-of-array-except-self](https://github.com/Pritam723/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Pritam723/ProblemSolving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pritam723/ProblemSolving/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pritam723/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Pritam723/ProblemSolving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
