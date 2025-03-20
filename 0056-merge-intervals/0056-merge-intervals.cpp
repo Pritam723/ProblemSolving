@@ -1,14 +1,16 @@
 class Solution {
 public:
-    // bool static comp(vector<int> e1, vector<int> e2){
-    //     if(e1[0] <= e2[0]) return true;
-    //     else{
-    //         if(e1[1] < e2[1]) return true;
-    //         else return false;
-    //     }
-    // }
+    bool static comp(vector<int> e1, vector<int> e2){
+        if(e1[0] < e2[0]) return true;
+        else if(e1[0] == e2[0]){
+            return e1[1] < e2[1];
+        }
+        else{
+            return false;
+        }
+    }
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        sort(intervals.begin(), intervals.end());
+        sort(intervals.begin(), intervals.end(), comp);
         // return intervals;
         vector<vector<int>> newIntervals;
 
