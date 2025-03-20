@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/Pritam723/ProblemSolving/tree/master/0341-flatten-nested-list-iterator) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritam723/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Pritam723/ProblemSolving/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritam723/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pritam723/ProblemSolving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Pritam723/ProblemSolving/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pritam723/ProblemSolving/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritam723/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Pritam723/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Pritam723/ProblemSolving/tree/master/1170-shortest-common-supersequence) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/Pritam723/ProblemSolving/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritam723/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pritam723/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pritam723/ProblemSolving/tree/master/1917-maximum-average-pass-ratio) |
