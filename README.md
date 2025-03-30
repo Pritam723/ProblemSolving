@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Pritam723/ProblemSolving/tree/master/0127-word-ladder) |
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Pritam723/ProblemSolving/tree/master/0592-fraction-addition-and-subtraction) |
+| [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Pritam723/ProblemSolving/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Pritam723/ProblemSolving/tree/master/0952-word-subsets) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Pritam723/ProblemSolving/tree/master/0336-palindrome-pairs) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pritam723/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pritam723/ProblemSolving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Pritam723/ProblemSolving/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Pritam723/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Pritam723/ProblemSolving/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritam723/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pritam723/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/Pritam723/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
+| [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Pritam723/ProblemSolving/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pritam723/ProblemSolving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pritam723/ProblemSolving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
