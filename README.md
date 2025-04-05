@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Pritam723/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Pritam723/ProblemSolving/tree/master/0078-subsets) |
+| [0134-gas-station](https://github.com/Pritam723/ProblemSolving/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Pritam723/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pritam723/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Pritam723/ProblemSolving/tree/master/0268-missing-number) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Pritam723/ProblemSolving/tree/master/0134-gas-station) |
 | [0670-maximum-swap](https://github.com/Pritam723/ProblemSolving/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
