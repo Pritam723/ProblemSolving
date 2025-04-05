@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/Pritam723/ProblemSolving/tree/master/0341-flatten-nested-list-iterator) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pritam723/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Pritam723/ProblemSolving/tree/master/0341-flatten-nested-list-iterator) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pritam723/ProblemSolving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pritam723/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Pritam723/ProblemSolving/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pritam723/ProblemSolving/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Pritam723/ProblemSolving/tree/master/0820-find-eventual-safe-states) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pritam723/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
