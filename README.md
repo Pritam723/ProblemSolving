@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Pritam723/ProblemSolving/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pritam723/ProblemSolving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Pritam723/ProblemSolving/tree/master/1396-count-servers-that-communicate) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Pritam723/ProblemSolving/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pritam723/ProblemSolving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Pritam723/ProblemSolving/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritam723/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pritam723/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pritam723/ProblemSolving/tree/master/1917-maximum-average-pass-ratio) |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/0783-search-in-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Pritam723/ProblemSolving/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0948-sort-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0948-sort-an-array) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
