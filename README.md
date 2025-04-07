@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Pritam723/ProblemSolving/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pritam723/ProblemSolving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0494-target-sum) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pritam723/ProblemSolving/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Pritam723/ProblemSolving/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Pritam723/ProblemSolving/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Pritam723/ProblemSolving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
