@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pritam723/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/Pritam723/ProblemSolving/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Pritam723/ProblemSolving/tree/master/0127-word-ladder) |
