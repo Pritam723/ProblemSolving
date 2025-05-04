@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Pritam723/ProblemSolving/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/Pritam723/ProblemSolving/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pritam723/ProblemSolving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pritam723/ProblemSolving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Pritam723/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Pritam723/ProblemSolving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Pritam723/ProblemSolving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Pritam723/ProblemSolving/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pritam723/ProblemSolving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Pritam723/ProblemSolving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pritam723/ProblemSolving/tree/master/1285-balance-a-binary-search-tree) |
 | [1304-longest-happy-string](https://github.com/Pritam723/ProblemSolving/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pritam723/ProblemSolving/tree/master/1502-construct-k-palindrome-strings) |
