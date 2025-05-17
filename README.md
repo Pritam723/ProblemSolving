@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pritam723/ProblemSolving/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Pritam723/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Pritam723/ProblemSolving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pritam723/ProblemSolving/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Pritam723/ProblemSolving/tree/master/0130-surrounded-regions) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pritam723/ProblemSolving/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pritam723/ProblemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Pritam723/ProblemSolving/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Pritam723/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Pritam723/ProblemSolving/tree/master/0868-push-dominoes) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Pritam723/ProblemSolving/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Pritam723/ProblemSolving/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Pritam723/ProblemSolving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Pritam723/ProblemSolving/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Pritam723/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
