@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pritam723/ProblemSolving/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Pritam723/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Pritam723/ProblemSolving/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Pritam723/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Pritam723/ProblemSolving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pritam723/ProblemSolving/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pritam723/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Pritam723/ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pritam723/ProblemSolving/tree/master/0417-pacific-atlantic-water-flow) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pritam723/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Pritam723/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Pritam723/ProblemSolving/tree/master/0127-word-ladder) |
