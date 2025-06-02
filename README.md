@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Pritam723/ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Pritam723/ProblemSolving/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Pritam723/ProblemSolving/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Pritam723/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pritam723/ProblemSolving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Pritam723/ProblemSolving/tree/master/0268-missing-number) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Pritam723/ProblemSolving/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Pritam723/ProblemSolving/tree/master/0135-candy) |
 | [0670-maximum-swap](https://github.com/Pritam723/ProblemSolving/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Pritam723/ProblemSolving/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
