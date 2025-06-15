@@ -1,0 +1,32 @@
+class Solution:
+    def maxDiff(self, num: int) -> int:
+        # Solution 2:
+        s = str(num)
+        x = next((c for c in s if c != '9'), None)
+        a = int(''.join('9' if c == x else c for c in s)) if x else num
+        if s[0] != '1':
+            y = s[0]
+            b = int(''.join('1' if c == y else c for c in s))
+        else:
+            y = next((c for c in s[1:] if c not in '01'), None)
+            b = int(''.join('0' if c == y else c for c in s)) if y else num
+        return a - b
+
+
+        # Solution 1:
+        s = str(num)
+        for c in s:
+            if c != '9':
+                a = s.replace(c, '9')
+                break
+        else:
+            a = s
+        if s[0] != '1':
+            b = s.replace(s[0], '1')
+        else:
+            b = s
+            for c in s[1:]:
+                if c not in '01':
+                    b = s.replace(c, '0')
+                    break
+        return int(a) - int(b)
