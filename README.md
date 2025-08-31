@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pritam723/ProblemSolving/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Pritam723/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pritam723/ProblemSolving/tree/master/0042-trapping-rain-water) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pritam723/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Pritam723/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Pritam723/ProblemSolving/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0407-trapping-rain-water-ii) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pritam723/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Pritam723/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Pritam723/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pritam723/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Pritam723/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pritam723/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Pritam723/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pritam723/ProblemSolving/tree/master/0046-permutations) |
