@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Pritam723/ProblemSolving/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Pritam723/ProblemSolving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pritam723/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Pritam723/ProblemSolving/tree/master/2023-design-movie-rental-system) |
 | [2035-count-sub-islands](https://github.com/Pritam723/ProblemSolving/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Pritam723/ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Pritam723/ProblemSolving/tree/master/2089-maximum-matrix-sum) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Pritam723/ProblemSolving/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Pritam723/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pritam723/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Pritam723/ProblemSolving/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Pritam723/ProblemSolving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Pritam723/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pritam723/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Pritam723/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pritam723/ProblemSolving/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Pritam723/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Pritam723/ProblemSolving/tree/master/2023-design-movie-rental-system) |
 | [2434-design-a-number-container-system](https://github.com/Pritam723/ProblemSolving/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Pritam723/ProblemSolving/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Pritam723/ProblemSolving/tree/master/0731-my-calendar-ii) |
+| [2023-design-movie-rental-system](https://github.com/Pritam723/ProblemSolving/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Pritam723/ProblemSolving/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Pritam723/ProblemSolving/tree/master/2868-continuous-subarrays) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Pritam723/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Pritam723/ProblemSolving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Pritam723/ProblemSolving/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/Pritam723/ProblemSolving/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/Pritam723/ProblemSolving/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pritam723/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Pritam723/ProblemSolving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
