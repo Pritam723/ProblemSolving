@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pritam723/ProblemSolving/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Pritam723/ProblemSolving/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Pritam723/ProblemSolving/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Pritam723/ProblemSolving/tree/master/0368-largest-divisible-subset) |
