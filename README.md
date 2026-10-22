@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Pritam723/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/Pritam723/ProblemSolving/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Pritam723/ProblemSolving/tree/master/0368-largest-divisible-subset) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Pritam723/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Pritam723/ProblemSolving/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Pritam723/ProblemSolving/tree/master/0948-sort-an-array) |
