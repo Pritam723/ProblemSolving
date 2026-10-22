@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pritam723/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pritam723/ProblemSolving/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Pritam723/ProblemSolving/tree/master/0037-sudoku-solver) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pritam723/ProblemSolving/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pritam723/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Pritam723/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Pritam723/ProblemSolving/tree/master/0073-set-matrix-zeroes) |
