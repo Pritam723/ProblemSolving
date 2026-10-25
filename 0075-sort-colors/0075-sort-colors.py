@@ -1,11 +1,18 @@
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
+    def sortColors(self, nums: list[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
+        # 0 to low-1 -> 0
+        # low to mid-1 -> 1
+        # high+1 to n-1 -> 2
+
         n = len(nums)
-        low, mid = 0,0
+
+        low = mid = 0
         high = n-1
+
+        # [0,0,1,1,2,2] -> high = 1
 
         while(mid <= high):
             if(nums[mid] == 2):
@@ -18,6 +25,5 @@ class Solution:
                 low = low + 1
                 mid = mid + 1
 
+            print(nums)
 
-            
-        
